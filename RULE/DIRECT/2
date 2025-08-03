@@ -1,0 +1,455 @@
+### talkatone\Reddit\Whatsapp\Seagm\Paypal\Binance\github\tiktok\twitter\facebook&instagram\telegram
+
+# > Reddit
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmail.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,reddituploads.com
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
+
+# > Whatsapp
+## WhatsApp - 2025.01.29
+g.whatsapp.net,DIRECT
+dit.whatsapp.net,DIRECT
+static.whatsapp.net,DIRECT
+scontent.whatsapp.net,DIRECT
+pps.whatsapp.net,DIRECT
+mmg.whatsapp.net,DIRECT
+e2.whatsapp.net,DIRECT
+e3.whatsapp.net,DIRECT
+e4.whatsapp.net,DIRECT
+e6.whatsapp.net,DIRECT
+e7.whatsapp.net,DIRECT
+e9.whatsapp.net,DIRECT
+e10.whatsapp.net,DIRECT
+e12.whatsapp.net,DIRECT
+e16.whatsapp.net,DIRECT
+g-fallback.whatsapp.net,DIRECT
+crashlogs.whatsapp.net,DIRECT
+sonar-ber.cdn.whatsapp.net,DIRECT
+sonar-fra.cdn.whatsapp.net,DIRECT
+sonar-nrt.cdn.whatsapp.net,DIRECT
+media.fmnl15-1.fna.whatsapp.net,DIRECT
+media.fotp3-3.fna.whatsapp.net,DIRECT
+media.fotp3-4.fna.whatsapp.net,DIRECT
+media-fra3-1.cdn.whatsapp.net,DIRECT
+media-fra5-1.cdn.whatsapp.net,DIRECT
+media-sea1-1.cdn.whatsapp.net,DIRECT
+media-ber1-1.cdn.whatsapp.net,DIRECT
+media-arn2-1.cdn.whatsapp.net,DIRECT
+media-cph2-1.cdn.whatsapp.net,DIRECT
+media-nrt1-1.cdn.whatsapp.net,DIRECT
+media-ams4-1.cdn.whatsapp.net,DIRECT
+media-mxp2-1.cdn.whatsapp.net,DIRECT
+media-lhr6-2.cdn.whatsapp.net,DIRECT
+media-syd2-1.cdn.whatsapp.net,DIRECT
+media-nrt1-2.cdn.whatsapp.net,DIRECT
+www.whatsapp.com,DIRECT
+web.whatsapp.com,DIRECT
+graph.whatsapp.com,DIRECT
+graph.facebook.com,DIRECT
+bintray.com,DIRECT
+wa.me,DIRECT
+whatsapp-plus.info,DIRECT
+whatsapp-plus.me,DIRECT
+whatsapp-plus.net,DIRECT
+whatsapp.biz,DIRECT
+whatsapp.cc,DIRECT
+whatsapp.com,DIRECT
+whatsapp.info,DIRECT
+cdn.whatsapp.net,DIRECT
+whatsapp.net,DIRECT
+whatsapp.org,DIRECT
+whatsapp.tv,DIRECT
+whatsappbrand.com,DIRECT
+DOMAIN-keyword, whatsapp,DIRECT
+ip-cidr, 158.85.224.160/27,DIRECT
+ip-cidr, 158.85.46.128/27,DIRECT
+ip-cidr, 158.85.5.192/27,DIRECT
+ip-cidr, 173.192.222.160/27,DIRECT
+ip-cidr, 173.192.231.32/27,DIRECT
+ip-cidr, 18.194.0.0/15,DIRECT
+ip-cidr, 184.173.128.0/17,DIRECT
+ip-cidr, 208.43.122.128/27,DIRECT
+ip-cidr, 34.224.0.0/12,DIRECT
+ip-cidr, 50.22.198.204/30,DIRECT
+ip-cidr, 54.242.0.0/15,DIRECT
+# > Seagm
+DOMAIN-SUFFIX,seagm.com
+DOMAIN-SUFFIX,seagmcdn.com
+# > tiktok
+DOMAIN,lf16-effectcdn.byteeffecttos-g.com
+DOMAIN,lf16-pkgcdn.pitaya-clientai.com
+DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,bytegecko-i18n.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,capcut.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,isnssdk.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,sgpstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokd.net
+DOMAIN-SUFFIX,tiktokd.org
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-KEYWORD,musical.ly
+DOMAIN-KEYWORD,tiktok
+USER-AGENT,TikTok*
+PROCESS-NAME,com.zhiliaoapp.musically
+# > twitter
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,cms-twdigitalassets.com
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,tellapart.com
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twimg.org
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.biz
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,twittercommunity.com
+DOMAIN-SUFFIX,twitterflightschool.com
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,twitteroauth.com
+DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,x.com
+DOMAIN-KEYWORD,twitter
+IP-CIDR,192.133.76.0/22
+IP-CIDR,199.16.156.0/22
+IP-CIDR,199.59.148.0/22
+IP-CIDR,199.96.56.0/21
+IP-CIDR,202.160.128.0/22
+IP-CIDR,209.237.192.0/19
+IP-CIDR,69.195.160.0/19
+
+# Snapchat Chat
+DOMAIN-SUFFIX,chat-gateway-prod.chat.snapchat.com
+
+# Snapchat Website
+DOMAIN-SUFFIX,www.snapchat.com
+DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,snap.com
+
+# Snapchat App
+DOMAIN-SUFFIX,feelinsonice-mvm.l.google.com
+DOMAIN-SUFFIX,feelinsonice-hrd.appspot.com
+DOMAIN-SUFFIX,app.snapchat.com
+DOMAIN-SUFFIX,mvm.snapchat.com
+
+# Snapchat Login
+DOMAIN-SUFFIX,pro-accounts.snapchat.com
+DOMAIN-SUFFIX,auth.snapchat.com
+
+# Snapkit
+DOMAIN-SUFFIX,api.snapkit.com
+
+# Other
+DOMAIN-SUFFIX,sc-cdn.net
+DOMAIN-SUFFIX,gcs.sc-cdn.net
+DOMAIN-SUFFIX,jaguar-prod.snapchat.com
+DOMAIN-SUFFIX,st.sc-jpl.com
+DOMAIN-SUFFIX,gtq.sct.sc-prod.net
+DOMAIN-SUFFIX,gtq6.sct.sc-prod.net
+DOMAIN-SUFFIX,am-prod.sc-jpl.com
+DOMAIN-SUFFIX,s.sc-cdn.net
+DOMAIN-SUFFIX,cf-st.sc-cdn.net
+DOMAIN-SUFFIX,bolt-gcdn.sc-cdn.net
+DOMAIN-SUFFIX,gcp.api.snapchat.com
+DOMAIN-SUFFIX,us-east1-aws.api.snapchat.com
+DOMAIN-SUFFIX,us-east4-gcp.api.snapchat.com
+DOMAIN-SUFFIX,europe-west1-gcp.api.snapchat.com
+DOMAIN-SUFFIX,images.bitmoji.com
+DOMAIN-SUFFIX,us-east1-aws.api.snapchat.com
+DOMAIN-SUFFIX,api.snapchat.com
+DOMAIN-SUFFIX,us-east1-aws.api.sc-gw.com
+DOMAIN-SUFFIX,snap-storage-cdn.l.google.com
+DOMAIN-SUFFIX,snap.events.mapbox.com
+DOMAIN-SUFFIX,ms.sc-jpl.com
+DOMAIN-SUFFIX,snap.api.mapbox.com
+DOMAIN-SUFFIX,st-lb.sc-jpl.com
+DOMAIN-SUFFIX,loc.sc-jpl.com
+DOMAIN-SUFFIX,cognac-prod.appspot.com
+DOMAIN-SUFFIX,scm.sc-jpl.com
+DOMAIN-SUFFIX,us-central1-gcp.api.sc-gw.com
+DOMAIN-SUFFIX,us-central1-gcp.api.snapchat.com
+DOMAIN-SUFFIX,map-status-p-service-ext-alb-206522301.us-west-2.elb.amazonaws.com
+DOMAIN-SUFFIX,snapchat.appspot.com
+DOMAIN-SUFFIX,sc-analytics.appspot.com
+DOMAIN-SUFFIX,feelinsonice.appspot.com
+DOMAIN-SUFFIX,feelinsonice-hrd.appspot.com
+DOMAIN-SUFFIX,feelinsonice.com
+DOMAIN-SUFFIX,feelinsonice.appspot.com
+DOMAIN-SUFFIX,appspot.l.google.com
+DOMAIN-SUFFIX,data.flurry.com
+DOMAIN-SUFFIX,ase.adserver.snapads.com
+DOMAIN-SUFFIX,euw.adserver.snapads.com
+DOMAIN-SUFFIX,use.adserver.snapads.com
+DOMAIN-SUFFIX,usc.adserver.snapads.com
+DOMAIN-SUFFIX,app-analytics.snapchat.com
+DOMAIN-SUFFIX,app-analytics-v2.snapchat.com
+DOMAIN-SUFFIX,app.snapchat.com
+DOMAIN-SUFFIX,aws.api.snapchat.com
+DOMAIN-SUFFIX,cf-st.sc-cdn.net
+DOMAIN-SUFFIX,chat-gateway-prod.chat.snapchat.com
+DOMAIN-SUFFIX,gtq.sct.sc-prod.ne
+DOMAIN-SUFFIX,tib.snssdk.com
+DOMAIN-SUFFIX,loca.sc-jpl.com
+DOMAIN-SUFFIX,mvm.snapchat.com
+DOMAIN-SUFFIX,us-central1-gcp.api.snapchat.com
+DOMAIN-SUFFIX,webattachments.snapchat.com
+DOMAIN-SUFFIX,d3cwhzzyyewihk.cloudfront.net
+DOMAIN-SUFFIX,aws.duplex.snapchat.com
+DOMAIN-SUFFIX,internal-api.snapkit.com
+DOMAIN-SUFFIX,eu-west1-aws.duplex.sc-gw.com
+DOMAIN-SUFFIX,snapchat-proxy.appspot.com
+DOMAIN-SUFFIX,tr.snapchat.com
+
+IP-CIDR,108.168.176.192/26
+IP-CIDR,108.168.177.0/27
+IP-CIDR,108.168.180.96/27
+IP-CIDR,108.168.254.65/32
+IP-CIDR,108.168.255.224/32
+IP-CIDR,108.168.255.227/32
+IP-CIDR,108.177.8.0/21
+IP-CIDR,119.235.224.0/24
+IP-CIDR,119.235.232.0/24
+IP-CIDR,119.235.236.0/23
+IP-CIDR,129.134.0.0/17
+IP-CIDR,157.240.0.0/17
+IP-CIDR,169.45.248.118/32
+IP-CIDR,173.252.64.0/18
+IP-CIDR,3.123.36.126/32
+//IP-CIDR,31.13.64.0/18
+IP-CIDR,35.157.215.84/32
+IP-CIDR,35.157.217.255/32
+IP-CIDR,52.58.209.134/32
+IP-CIDR,54.162.243.80/32
+IP-CIDR,54.173.34.141/32
+IP-CIDR,54.235.23.242/32
+IP-CIDR,54.93.124.31/32
+DOMAIN-SUFFIX,onmail.com
+DOMAIN-SUFFIX,gmx.net
+DOMAIN-SUFFIX,gmx.com
+DOMAIN-SUFFIX,mail.com
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,idcoffer.com
+DOMAIN-SUFFIX,duangks.com
+DOMAIN-SUFFIX,getupnote.com
+DOMAIN-SUFFIX,ruleset.isagood.day
+DOMAIN-SUFFIX,ip2world.com
+DOMAIN-SUFFIX,craft.do
+DOMAIN-SUFFIX,anonymousemail.me
+DOMAIN-SUFFIX,temp-mail.org
+DOMAIN-SUFFIX,guerrillamail.com
+DOMAIN-SUFFIX,mail.me.com
+DOMAIN-SUFFIX,imap.gmail.com
+DOMAIN-SUFFIX,imap.mail.yahoo.com
+DOMAIN-SUFFIX,p36-imap.mail.me.com
+DOMAIN-SUFFIX,imap.aol.com
+DOMAIN-SUFFIX,creaders.net
+DOMAIN-SUFFIX,wikihow.com
+DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,sub.store
+DOMAIN-SUFFIX,infinitypro-img.infinitynewtab.com,DIRECT
+DOMAIN-SUFFIX,infinity-permanent.infinitynewtab.com,DIRECT
+DOMAIN-SUFFIX,m.inftab.com,DIRECT
+DOMAIN-SUFFIX,immersivetranslate.com,DIRECT
+DOMAIN-SUFFIX,inftab.com,DIRECT
+DOMAIN-SUFFIX,infinitynewtab.com,DIRECT
+DOMAIN-SUFFIX,infinityicon.infinitynewtab.com,DIRECT
+DOMAIN-SUFFIX,ws.infinitynewtab.com,DIRECT
+DOMAIN-SUFFIX,api.infinitynewtab.com,DIRECT
+DOMAIN-SUFFIX,s3.amazonaws.com,DIRECT
+DOMAIN-SUFFIX,init.push.apple.com,DIRECT
+DOMAIN-SUFFIX, push.apple.com,DIRECT
+DOMAIN-SUFFIX,.push.apple.com,DIRECT
+DOMAIN-SUFFIX,api.push.apple.com,DIRECT
+# > Google Drive
+DOMAIN-SUFFIX,m.inftab.com 
+DOMAIN-WILDCARD,m.inftab.com 
+## SMTP and IMAP 
+DOMAIN-SUFFIX,smtp.gmail.com
+DOMAIN-SUFFIX,smtp-mail.outlook.com
+DOMAIN-SUFFIX,smtp.mail.yahoo.com
+DOMAIN-SUFFIX,smtp.zoho.com
+DOMAIN-SUFFIX,smtp.aol.com
+DOMAIN-SUFFIX,smtp.protonmail.com
+DOMAIN-SUFFIX,smtp.mail.com
+DOMAIN-SUFFIX,smtp.yandex.com
+DOMAIN-SUFFIX,smtp.fastmail.com
+DOMAIN-SUFFIX,smtpout.secureserver.net
+DOMAIN-SUFFIX,smtp.mail.me.com
+DOMAIN-SUFFIX,mail.gandi.net
+DOMAIN-SUFFIX,smtp.gmx.com
+DOMAIN-SUFFIX,smtp.office365.com
+DOMAIN-SUFFIX,smtp.mail.lycos.com
+DOMAIN-SUFFIX,smtp.dreamhost.com
+DOMAIN-SUFFIX,smtp.ionos.com
+DOMAIN-SUFFIX,smtp.emailsrvr.com
+DOMAIN-SUFFIX,smtp.hushmail.com
+DOMAIN-SUFFIX,imap.gmail.com
+DOMAIN-SUFFIX,imap-mail.outlook.com
+DOMAIN-SUFFIX,imap.mail.yahoo.com
+DOMAIN-SUFFIX,imap.zoho.com
+DOMAIN-SUFFIX,imap.aol.com
+DOMAIN-SUFFIX,imap.protonmail.com
+DOMAIN-SUFFIX,imap.mail.com
+DOMAIN-SUFFIX,imap.yandex.com
+DOMAIN-SUFFIX,imap.fastmail.com
+DOMAIN-SUFFIX,imap.secureserver.net
+DOMAIN-SUFFIX,imap.mail.me.com
+DOMAIN-SUFFIX,imap.gmx.com
+DOMAIN-SUFFIX,outlook.office365.com
+DOMAIN-SUFFIX,imap.mail.lycos.com
+DOMAIN-SUFFIX,imap.dreamhost.com
+DOMAIN-SUFFIX,imap.ionos.com
+DOMAIN-SUFFIX,imap.emailsrvr.com
+DOMAIN-SUFFIX,imap.hushmail.com
+# > telegram
+DOMAIN,api.swiftgram.app
+DOMAIN-SUFFIX,comments.app
+DOMAIN-SUFFIX,contest.com
+DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,legra.ph
+DOMAIN-SUFFIX,mbrx.app
+DOMAIN-SUFFIX,quiz.directory
+DOMAIN-SUFFIX,stel.com
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-KEYWORD,telegram
+DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,tg.dev
+DOMAIN-SUFFIX,tx.me
+DOMAIN-SUFFIX,usercontent.dev
+DOMAIN-KEYWORD,nicegram
+# DC5
+IP-CIDR,91.108.16.0/22
+IP-CIDR,91.108.56.0/23
+IP-CIDR,149.154.168.0/22
+# DC4
+IP-CIDR,91.108.4.0/22
+IP-CIDR,91.108.8.0/22
+IP-CIDR,91.108.56.0/22
+IP-CIDR,95.161.64.0/20
+IP-CIDR,149.154.160.0/22
+IP-CIDR,149.154.162.0/23
+IP-CIDR,149.154.164.0/22
+IP-CIDR,149.154.166.0/23
+# DC1
+IP-CIDR,91.108.12.0/22
+IP-CIDR,149.154.172.0/22
+# DC2
+IP-CIDR,91.108.20.0/22
+# DC3
+IP-CIDR,91.105.192.0/23
+IP-CIDR,185.76.151.0/24
+# DC5-V6
+IP-CIDR6,2001:b28:f23f::/48
+# DC4-V6
+IP-CIDR6,2001:67c:4e8::/48
+# DC1-V6
+IP-CIDR6,2001:b28:f23d::/48
+# DC2-V6
+IP-CIDR6,2001:b28:f23c::/48
+# DC3-V6
+IP-CIDR6,2a0a:f280:203::/48
+# DC5-ASN
+IP-ASN,62014
+# DC4-ASN
+IP-ASN,62041
+# DC1-ASN
+IP-ASN,59930
+# DC2-ASN
+IP-ASN,44907
+# DC3-ASN
+IP-ASN,211157
+IP-CIDR,5.28.195.80/32
+
+
+# Gmail
+DOMAIN,imap.gmail.com,DIRECT
+DOMAIN,smtp.gmail.com,DIRECT
+DOMAIN,pop.gmail.com,DIRECT
+# Outlook
+DOMAIN-SUFFIX,m.hotmail.com,DIRECT
+DOMAIN,outlook.office365.com,DIRECT
+DOMAIN,imap-mail.outlook.com,DIRECT
+DOMAIN,smtp-mail.outlook.com,DIRECT
+DOMAIN,smtp.office365.com,DIRECT
+
+# GitHub BYOIP
+IP-CIDR,185.199.108.0/22,DIRECT
+# Cloudflare NTP
+IP-CIDR,162.159.200.1/32,PROXY
+IP-CIDR,162.159.200.123/32,PROXY
+
+# > 1password
+DOMAIN-KEYWORD,1password,DIRECT
+DOMAIN-SUFFIX,1passwordservices.com,DIRECT
+DOMAIN-SUFFIX,1password.ca,DIRECT
+DOMAIN-SUFFIX,1password.eu,DIRECT
+DOMAIN-SUFFIX,1password.com,DIRECT
+
+# yahoo
+DOMAIN,apple.imap.mail.yahoo.com,DIRECT
+DOMAIN,apple.smtp.mail.yahoo.com,DIRECT
+# yandex
+DOMAIN-SUFFIX,imap.yandex.com,PROXY
+DOMAIN-SUFFIX,smtp.yandex.com,PROXY
+
+# Direct+
+DOMAIN,app.adjust.com,PROXY
+DOMAIN,app.appsflyer.com,PROXY
+
+# > apple
+DOMAIN-SUFFIX,a1.mzstatic.com
+DOMAIN-SUFFIX,a2.mzstatic.com
+DOMAIN-SUFFIX,a3.mzstatic.com
+DOMAIN-SUFFIX,a4.mzstatic.com
+DOMAIN-SUFFIX,a5.mzstatic.com
+DOMAIN-SUFFIX,adcdownload.apple.com
+DOMAIN-SUFFIX,adcdownload.apple.com.akadns.net
+DOMAIN-SUFFIX,amp-api-search-edge.apps.apple.com
+DOMAIN-SUFFIX,amp-api.apps.apple.com
+DOMAIN-SUFFIX,amp-api.fitness.apple.com
+DOMAIN-SUFFIX,analytics.strava.com
+DOMAIN-SUFFIX,aod-ssl.itunes.apple.com
+DOMAIN-SUFFIX,aod.itunes.apple.com
+IP-CIDR,18.194.0.0/15,no-resolve
+IP-CIDR,34.224.0.0/12,no-resolve
+IP-CIDR,54.242.0.0/15,no-resolve
+IP-CIDR,50.22.198.204/30,no-resolve
+IP-CIDR,208.43.122.128/27,no-resolve
+IP-CIDR,108.168.174.0/16,no-resolve
+IP-CIDR,173.192.231.32/27,no-resolve
+IP-CIDR,158.85.5.192/27,no-resolve
+IP-CIDR,174.37.243.0/16,no-resolve
+IP-CIDR,158.85.46.128/27,no-resolve
+IP-CIDR,173.192.222.160/27,no-resolve
+IP-CIDR,184.173.128.0/17,no-resolve
+IP-CIDR,158.85.224.160/27,no-resolve
+IP-CIDR,75.126.150.0/16,no-resolve
+IP-CIDR,69.171.235.0/16,no-resolve
